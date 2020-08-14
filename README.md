@@ -1,4 +1,4 @@
-# Data exploration |  Project-1
+# Data exploration
 ---
 __Language:__ python > 3.0
 
