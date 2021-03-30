@@ -1,5 +1,6 @@
-# Data exploration
 ---
+# Data exploration
+
 __Language:__ python > 3.0
 
 __Data:__ The data of this project come from AirBnB.Specifically, there's a directory named data,which contains directories Aril,March and February.These directories have information from AirBnB platform such as id,zipcode,transit,Bedrooms,Beds,Review_scores_rating,Number_of_reviews,Neighbourhood,etc.
@@ -19,3 +20,7 @@ __Subqueries:__
 1. __TF-IDF,BoW Vectorazation :__ Vectorazation of the three isolated columns
 2. __Cosine Similarity :__ Calculating the similarity between every element of tf-idf with all the others
 3. Function that finds and returns the __most similar entries__ given an id
+
+---
+
+© Konstantinos Nikoletos & Myrto Iglezou
