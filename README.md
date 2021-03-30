@@ -1,6 +1,10 @@
 ---
 # Data exploration
 
+
+#### ✔️ Open this notebook with jupyter online viewer [jupyter nbviewer](https://github.com/Nikoletos-K/AirBnB-Data-Analysis/blob/master/Project.ipynb) ✔️
+
+
 __Language:__ python > 3.0
 
 __Data:__ The data of this project come from AirBnB.Specifically, there's a directory named data,which contains directories Aril,March and February.These directories have information from AirBnB platform such as id,zipcode,transit,Bedrooms,Beds,Review_scores_rating,Number_of_reviews,Neighbourhood,etc.
