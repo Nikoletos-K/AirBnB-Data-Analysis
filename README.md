@@ -2,7 +2,7 @@
 # Data exploration
 
 
-#### ✔️ Open this notebook with jupyter online viewer [jupyter nbviewer](https://github.com/Nikoletos-K/AirBnB-Data-Analysis/blob/master/Project.ipynb) ✔️
+#### ✔️ Open this notebook with jupyter online viewer [jupyter nbviewer](https://nbviewer.jupyter.org/github/Nikoletos-K/AirBnB-Data-Analysis/blob/master/Project.ipynb) ✔️
 
 
 __Language:__ python > 3.0
