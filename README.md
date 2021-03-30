@@ -1,5 +1,5 @@
 ---
-# Data exploration
+# AirBnB Data Analysis
 
 
 #### ✔️ Open this notebook with jupyter online viewer [jupyter nbviewer](https://nbviewer.jupyter.org/github/Nikoletos-K/AirBnB-Data-Analysis/blob/master/Project.ipynb) ✔️
